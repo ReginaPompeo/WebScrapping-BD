@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "48frv0HL+eUi3J2R5bSGavCO2zgpG/NNtdSgSJthbpz66eef11dXL3rcHQvju+q6FHDL2i98sH/N4Y37VtXXOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\logonrmlocal\\Downloads\\240dca4b3912017c2d0cc8c6d65ba6ff3b0c1de89550cba29030cd57f9d4b2db\\Entregavel_Csharp_Aeroparts\\AeroParts_WebScrapping\\AeroParts_WebScrapping\\AeroParts_WebScrapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\oracle.manageddataaccess.core\\3.21.140\\oracle.manageddataaccess.core.3.21.140.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.1\\system.diagnostics.performancecounter.6.0.1.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.directoryservices\\6.0.1\\system.directoryservices.6.0.1.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.directoryservices.protocols\\6.0.2\\system.directoryservices.protocols.6.0.2.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.4\\system.security.cryptography.pkcs.6.0.4.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

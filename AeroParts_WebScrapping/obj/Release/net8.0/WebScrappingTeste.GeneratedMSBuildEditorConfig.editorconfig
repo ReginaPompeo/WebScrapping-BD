@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebScrappingTeste
+build_property.ProjectDir = C:\Users\logonrmlocal\Downloads\240dca4b3912017c2d0cc8c6d65ba6ff3b0c1de89550cba29030cd57f9d4b2db\Entregavel_Csharp_Aeroparts\AeroParts_WebScrapping\AeroParts_WebScrapping\
